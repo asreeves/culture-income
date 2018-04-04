@@ -1,7 +1,7 @@
 # culture-income
 Replication materials for the paper 'Can cultural consumption increase future earnings? Exploring the economic returns to cultural capital'
 
-The paper is forthcoming in the British Journal of Sociology but an open access version is available here: 
+The paper is forthcoming in the British Journal of Sociology but an open access version is available here: https://osf.io/preprints/socarxiv/268ns
 
 The raw data used for these analyses come from Understanding Society and the British Household Panel Survey. 
 These are both hosted by the UK Data archive but access requires potential users register with the UKDA and request access to these datasets. 
