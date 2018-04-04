@@ -1,5 +1,5 @@
 # culture-income
-Replication materials for the paper 'Can cultural consumption increase future earnings? Exploring the economic returns to cultural capital'
+Replication materials for the paper 'Can cultural consumption increase future earnings? Exploring the economic returns to cultural capital' by Aaron Reeves and Robert de Vries.
 
 The paper is forthcoming in the British Journal of Sociology but an open access version is available here: https://osf.io/preprints/socarxiv/268ns
 
